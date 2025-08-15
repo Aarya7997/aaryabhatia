@@ -7,13 +7,13 @@
 
 ---
 
-## 💡 Who Am I?
+## ​ Who Am I?
 I'm **Aarya Bhatia**, a passionate AI/ML engineer from India who believes that **great algorithms are not just code — they’re change-makers**.  
 My mission? To craft **smart, scalable, and ethical AI systems** that bridge the gap between research and real-world impact.
 
 ---
 
-## 🚀 What I Do
+## ​ What I Do
 - 🧠 **Machine Learning & Deep Learning** – CNNs, RNNs, Transformers, and more  
 - ☁️ **MLOps & Cloud** – Deploying models with AWS, Azure, and Docker  
 - 📊 **Data Science** – From messy datasets to actionable insights  
@@ -22,7 +22,7 @@ My mission? To craft **smart, scalable, and ethical AI systems** that bridge the
 
 ---
 
-## 🛠 My Toolbox
+## ​ My Toolbox
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -34,7 +34,7 @@ My mission? To craft **smart, scalable, and ethical AI systems** that bridge the
 
 ---
 
-## 📂 Featured Projects
+## ​ Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
 | **🗑 Intelligent Waste Sorting System** | AI-powered waste classification system deployed with Azure Custom Vision & Blob Storage | Azure, Python, CV |
@@ -44,20 +44,24 @@ My mission? To craft **smart, scalable, and ethical AI systems** that bridge the
 
 ---
 
-## 📊 My GitHub in Numbers
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryabhatia&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryabhatia&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarya7997&show_icons=true&theme=tokyonight" alt="Aarya’s GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarya7997&theme=tokyonight" alt="Aarya’s GitHub Streak" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya7997&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
 
 ---
 
-## 🌍 Let's Connect
+## ​ Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/aaryabhatia" target="_blank">
+  <a href="https://www.linkedin.com/in/aarya-bhatia-56890524b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:aaryabhatia@gmail.com">
+  <a href="mailto:maddoganddemigod123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/aaryabhatia" target="_blank">
